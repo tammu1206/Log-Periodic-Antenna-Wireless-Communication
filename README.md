@@ -22,7 +22,3 @@ This repository contains the design, simulation, and analysis of a log-periodic 
 2. Load the provided simulation files.
 3. Adjust parameters as required to observe performance.
 
-## Authors
-- Tamanna
-- Shreya Jaiswal
-- Blessy Abraham
